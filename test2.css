@@ -1,0 +1,55 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   
+}
+
+
+
+
+.navbar{
+
+    height: 100px;
+    background-color: rgb(97, 97, 96);
+}
+
+
+.logo{
+
+    margin-left: 20px;
+}
+
+
+#min-page{
+
+
+    margin-top: 60px;
+    background-color: rgb(97, 97, 96);
+   
+   
+
+}
+
+  p{
+    background-color: rgb(97, 97, 96);
+   
+
+  }
+
+.h {
+    margin-top: 50px;
+   
+}
+
+
+@media (max-width:450px ){
+
+    #min-page{
+
+        width: 330px;
+        margin-left: auto ;
+        margin-right: auto;
+    }
+}
